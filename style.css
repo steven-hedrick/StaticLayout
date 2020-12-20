@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .content-wrapper {
     max-width: 960px;
 }
@@ -40,3 +41,27 @@ h1 {
 
 
 
+=======
+.content-wrapper {
+    max-width: 960px;
+}
+
+.box {
+    justify-content: center;
+    align-items: center;
+}
+
+.centered-block {
+    display: block;
+    margin-top: auto;
+    margin-bottom: 500px;
+    max-height: 500px;
+}
+
+
+
+ul, li a {
+    list-style: none;
+}
+
+>>>>>>> f2009d440f427b9e8040747769be998553d88f1f
