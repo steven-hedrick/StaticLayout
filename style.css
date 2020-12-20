@@ -1,0 +1,42 @@
+.content-wrapper {
+    max-width: 960px;
+}
+
+.box {
+    justify-content: center;
+    align-items: center;
+}
+
+.centered-block {
+    display: block;
+    margin-top: auto;
+    margin-bottom: 500px;
+    max-height: 500px;
+}
+
+
+
+ul, li a {
+    list-style: none;
+}
+
+h6 {
+    color: black;
+}
+
+h1 {
+    color: white;
+}
+
+.stretched-link {
+    color: orange;
+    text-align: center;
+}
+
+.d-inline-flex-p2 {
+    justify-content: center;
+}
+
+
+
+
